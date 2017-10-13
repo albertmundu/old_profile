@@ -12,3 +12,10 @@ Facebook:   +facebook.com/albertmundu+
 
 Github:     +github.com/albertmundu+
 ~~~
+
+~~~
+{}{table}{TABLENAME}
+first entry  | another entry ||
+as many rows | as you like   ||
+bottom row   | last entry
+~~~
