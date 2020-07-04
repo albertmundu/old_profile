@@ -5,7 +5,7 @@
 
 List of video resources for my area of research 
 . An Introduction to Graph Neural Networks: Models and Applications [https://www.youtube.com/watch?v=zCEYiCxrL_0]
-. $L = Y_n\dot\log(X_n) + (1-Y_n)\log(1-X_n)$
+. $L = Y_n\cdot\log(X_n) + (1-Y_n)\log(1-X_n)$
 
 == Important Research Sites
 - [https://ai.facebook.com/ FAIR ]
