@@ -1,8 +1,9 @@
 # jemdoc: menu{MENU}{index.html}
 = Albert Mundu
 
+
 ~~~
-{}{img_left}{albert2.jpg}{Photograph of Albert Mundu}{}{}{}
+{}{img_left}{./images/albert2.jpg}{Photograph of Albert Mundu}{}{}{}
 *Albert Mundu*
 
 M.Tech -- Ph.D +(2016 - )+
